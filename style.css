@@ -1,0 +1,24 @@
+#claude-thinking-controller-panel .inline-drawer-content {
+    gap: 6px;
+}
+
+#claude-thinking-controller-panel small {
+    opacity: 0.7;
+    line-height: 1.4;
+}
+
+#claude-thinking-controller-panel label:not(.checkbox_label) {
+    margin-top: 4px;
+    font-weight: 600;
+}
+
+#ctc_adaptive_box,
+#ctc_budget_box {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px;
+    margin-top: 4px;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.03);
+}

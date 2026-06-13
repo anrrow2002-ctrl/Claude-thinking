@@ -1,0 +1,12 @@
+{
+    "display_name": "Claude 思考控制器",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Anrrow",
+    "version": "1.0.0",
+    "homePage": "https://github.com/",
+    "auto_update": true
+}
